@@ -5,8 +5,13 @@ This is the source code for a very simple chat example used for the [Tutorial](h
 You can run this example directly in your browser on:
 
 - [CodeSandbox](https://codesandbox.io/p/sandbox/github/socketio/chat-example?file=index.js)
-- [StackBlitz](https://stackblitz.com/github/socketio/chat-example?file=index.js)
-- [Repl.it](https://repl.it/github/socketio/chat-example)
+
+## CodeSandbox
+
+https://codesandbox.io/dashboard/recent `Import`   
+[`share URL`](https://codesandbox.io/p/github/JacobHsu/socket-chat/main?import=true) https://codesandbox.io/p/github/JacobHsu/socket-chat/main?file=index.js    
+- [CodeSandbox](https://codesandbox.io/p/github/JacobHsu/socket-chat/main?file=index.js)
+
 
 ## References
 
